@@ -1,0 +1,46 @@
+Config:
+  starting_amount: 5000
+  auto_update: true
+  save_time: 300
+  economy_symbol: $
+  economy_name: Balance
+  announce_save: true
+  use_mysql: false
+MySQL:
+  hostname: localhost
+  port: 3306
+  database: minecraft
+  username: root
+  password: ''
+Allow:
+  buy_signs: true
+  sell_signs: true
+  infinite_buy_signs: true
+  infinite_sell_signs: true
+  enchantment_signs: true
+  xp_signs: true
+  repair_signs: true
+  globalshop: true
+  unsafe_enchantments: false
+Accounts:
+  camjohn153: 5000.0
+  FartyChicken101: 5000.0
+  xShagolagalx: 5000.0
+BankAccounts: {}
+GlobalShop:
+  GlobalShop:
+    '1':
+      material: stone
+      amount: 16
+      buy: 500
+      sell: 300
+    '2':
+      material: 1
+      amount: 16
+      buy: 500
+      sell: 300
+    '3':
+      material: '35:14'
+      amount: 16
+      buy: 500
+      sell: 300

@@ -1,0 +1,21 @@
+nickname: Sam
+logoutlocation:
+  world: map
+  x: -1183.3983915156487
+  y: 107.58870027406762
+  z: -568.5246754454721
+  yaw: 219.9
+  pitch: 43.499996
+timestamps:
+  logout: 1408822429140
+  login: 1408822188157
+  lastteleport: 1408309782517
+uuid: 66d70447-ddeb-4e3c-8d85-953199f290c7
+ipAddress: 23.240.152.61
+lastlocation:
+  world: map
+  x: -993.6597568116836
+  y: 81.38437643996768
+  z: -615.2423424231719
+  yaw: -23.249634
+  pitch: 33.600018

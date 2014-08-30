@@ -1,0 +1,22 @@
+logoutlocation:
+  world: map
+  x: -996.3000000119209
+  y: 89.0
+  z: -643.4603691090559
+  yaw: -269.3996
+  pitch: 13.349942
+timestamps:
+  lastteleport: 1408318943887
+  logout: 1408822458990
+  login: 1408822282407
+lastlocation:
+  world: map
+  x: -1012.0017401734738
+  y: 85.0
+  z: -638.0576566476169
+  yaw: 148.65054
+  pitch: 23.400042
+nickname: hero
+afk: false
+uuid: ea2057e4-6923-4ad2-9dd6-e9f6bc5d4718
+ipAddress: 70.59.217.252

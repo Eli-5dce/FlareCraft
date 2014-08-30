@@ -1,0 +1,344 @@
+[13:28:17] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[13:28:17] [Server thread/INFO]: Loading properties
+[13:28:17] [Server thread/INFO]: Default game type: SURVIVAL
+[13:28:17] [Server thread/INFO]: Generating keypair
+[13:28:18] [Server thread/INFO]: Starting Minecraft server on *:23456
+[13:28:18] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-66-g43d8943-b3078jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.1-SNAPSHOT)
+[13:28:21] [Thread-8/INFO]: ----- Bukkit Auto Updater -----
+[13:28:21] [Thread-8/INFO]: It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[13:28:21] [Thread-8/INFO]: If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+[13:28:21] [Thread-8/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[13:28:21] [Thread-8/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[13:28:21] [Thread-8/INFO]: ----- ------------------- -----
+[13:28:21] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[13:28:21] [Server thread/INFO]: [EconomyManager] Loading EconomyManager v1.0.3
+[13:28:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[13:28:21] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[13:28:21] [Server thread/INFO]: [Vault] Loading Vault v1.4.1-b436
+[13:28:21] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[13:28:21] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[13:28:21] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.28 (Phoenix)
+[13:28:21] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[13:28:21] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[13:28:21] [Server thread/INFO]: [ClickWarp] Loading ClickWarp v1.3.5
+[13:28:21] [Server thread/INFO]: [EconomyManager] Enabling EconomyManager v1.0.3
+[13:28:21] [Server thread/INFO]: [EconomyManager] ItemStack{STONE x 1}
+[13:28:21] [Server thread/INFO]: [EconomyManager] ItemStack{STONE x 1}
+[13:28:21] [Server thread/INFO]: [EconomyManager] ItemStack{WOOL x 1}
+[13:28:21] [Server thread/INFO]: [Vault] Enabling Vault v1.4.1-b436
+[13:28:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:28:22] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[13:28:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:28:22] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[13:28:22] [Server thread/INFO]: [Vault] Enabled Version 1.4.1-b436
+[13:28:22] [Server thread/INFO]: Preparing level "map"
+[13:28:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4970959160610241267)
+[13:28:23] [Server thread/INFO]: Preparing spawn area: 3%
+[13:28:24] [Server thread/INFO]: Preparing spawn area: 41%
+[13:28:25] [Server thread/INFO]: Preparing spawn area: 70%
+[13:28:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4970959160610241267)
+[13:28:27] [Server thread/INFO]: Preparing spawn area: 20%
+[13:28:28] [Server thread/INFO]: Preparing spawn area: 50%
+[13:28:29] [Server thread/INFO]: Preparing spawn area: 72%
+[13:28:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4970959160610241267)
+[13:28:30] [Server thread/INFO]: Preparing spawn area: 62%
+[13:28:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[13:28:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:28:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[13:28:32] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[13:28:32] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[13:28:32] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[13:28:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[13:28:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[13:28:32] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[13:28:32] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.28 (Phoenix)
+[13:28:32] [Server thread/INFO]: GroupManager - INFO - World Found: map
+[13:28:32] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[13:28:32] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[13:28:32] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[13:28:32] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[13:28:32] [Server thread/INFO]: GroupManager version 2.1.28 (Phoenix) is enabled!
+[13:28:32] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[13:28:32] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[13:28:32] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[13:28:32] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[13:28:32] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map) TNT ignition is PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map) Lighters are PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map) Lava fire is blocked.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map) Fire spread is UNRESTRICTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'map'
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_nether) TNT ignition is PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_nether) Lighters are PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_nether) Lava fire is blocked.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_nether) Fire spread is UNRESTRICTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'map_nether'
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_the_end) TNT ignition is PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_the_end) Lighters are PERMITTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_the_end) Lava fire is blocked.
+[13:28:32] [Server thread/INFO]: [WorldGuard] (map_the_end) Fire spread is UNRESTRICTED.
+[13:28:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'map_the_end'
+[13:28:33] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'map'
+[13:28:33] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'map_nether'
+[13:28:33] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'map_the_end'
+[13:28:33] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[13:28:33] [Server thread/INFO]: [ClickWarp] Enabling ClickWarp v1.3.5
+[13:28:33] [Server thread/INFO]: [ClickWarp] Metrics started!
+[13:28:33] [Server thread/INFO]: [ClickWarp] Plugin v1.3.5 by comniemeer enabled.
+[13:28:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:28:34] [Server thread/INFO]: Done (11.783s)! For help, type "help" or "?"
+[13:28:34] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[13:28:36] [pool-3-thread-9/INFO]: [Vault] Checking for Updates:
+[13:28:36] [pool-3-thread-9/INFO]: [Vault] No new version available
+[13:29:05] [User Authenticator #1/INFO]: UUID of player camjohn153 is 66d70447-ddeb-4e3c-8d85-953199f290c7
+[13:29:06] [Server thread/INFO]: camjohn153[/23.240.152.61:44049] logged in with entity id 2 at ([map] -1016.5, 89.0, -639.5)
+[13:29:13] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[13:29:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3523ms behind, skipping 70 tick(s)
+[13:29:14] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:29:14] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:29:14] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:29:14] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:29:14] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:29:14] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:29:14] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:29:14] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:29:14] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:29:15] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:29:15] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:29:15] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:29:15] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:29:15] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:29:15] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:29:16] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:29:16] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:29:16] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:29:17] [Server thread/INFO]: camjohn153 issued server command: /fly
+[13:29:20] [Server thread/INFO]: camjohn153 issued server command: /gamemode 1
+[13:29:28] [Server thread/INFO]: camjohn153 lost connection: Disconnected
+[13:29:28] [Server thread/INFO]: camjohn153 left the game.
+[13:29:48] [User Authenticator #2/INFO]: UUID of player camjohn153 is 66d70447-ddeb-4e3c-8d85-953199f290c7
+[13:29:48] [Server thread/INFO]: camjohn153[/23.240.152.61:36712] logged in with entity id 3 at ([map] -1020.2467251999501, 85.0, -657.2201023374652)
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:29:51] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:29:51] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:29:51] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:29:51] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:29:51] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:29:51] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:29:56] [Server thread/INFO]: camjohn153 issued server command: /spawm
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:30:03] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:30:03] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:30:03] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:30:03] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:30:03] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:30:03] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:30:14] [Server thread/INFO]: camjohn153 issued server command: /creative
+[13:30:17] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:30:17] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:30:17] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:30:17] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:30:17] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:30:17] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:30:17] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:30:17] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:30:17] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:30:18] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:30:18] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:30:18] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:30:19] [Server thread/INFO]: camjohn153 fell from a high place
+[13:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2448ms behind, skipping 48 tick(s)
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:30:28] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:30:28] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:30:28] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:30:28] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:30:28] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:30:28] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:30:31] [Server thread/INFO]: camjohn153 issued server command: /gamemode 1
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:30:32] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:30:32] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:30:32] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:30:32] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:30:32] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:30:32] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:30:36] [Server thread/INFO]: camjohn153 has just earned the achievement [Taking Inventory]
+[13:30:52] [Server thread/INFO]: camjohn153 issued server command: /gamemode 1
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give camjohn153 388 5
+[13:30:54] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:30:54] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give camjohn153 339 64
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:30:54] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give camjohn153 276
+[13:30:54] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 camjohn153
+[13:30:54] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~Sam[m's spawnpoint to 1070, 61, 40[m
+[13:30:54] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp camjohn153 1030.5 57 4.5
+[13:31:14] [Server thread/INFO]: camjohn153 issued server command: /gamemode 1
+[13:31:22] [User Authenticator #3/INFO]: UUID of player FartyChicken101 is ea2057e4-6923-4ad2-9dd6-e9f6bc5d4718
+[13:31:22] [Server thread/INFO]: FartyChicken101[/70.59.217.252:50101] logged in with entity id 18 at ([map] -1004.6762013227242, 85.0, -638.7308532607638)
+[13:31:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5233ms behind, skipping 104 tick(s)
+[13:31:28] [Server thread/INFO]: FartyChicken101 has just earned the achievement [Taking Inventory]
+[13:32:10] [Server thread/INFO]: camjohn153 issued server command: /warp
+[13:32:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37057ms behind, skipping 741 tick(s)
+[13:32:14] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:32:14] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:32:14] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:32:14] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:32:14] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:32:14] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:32:14] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:32:14] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:32:14] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:32:15] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:32:15] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:32:15] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:32:18] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:32:18] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:32:18] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:32:18] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:32:18] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:32:18] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:32:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4615ms behind, skipping 92 tick(s)
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:32:39] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:32:39] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:32:39] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:32:39] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:32:39] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:32:39] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:32:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3519ms behind, skipping 70 tick(s)
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:32:46] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:32:46] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:32:46] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:32:46] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:32:46] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:32:46] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:33:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16452ms behind, skipping 329 tick(s)
+[13:33:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2868ms behind, skipping 57 tick(s)
+[13:33:21] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:33:21] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:33:21] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:33:21] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:33:21] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:33:21] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:33:21] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:33:21] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:33:21] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:33:22] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:33:22] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:33:22] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:33:27] [Server thread/WARN]: camjohn153 moved too quickly! 6.738679538168753,-7.16255503784943,7.649835216661927 (6.738679538168753, 7.16255503784943, 7.649835216661927)
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,018,88,-644 issued server command: /give FartyChicken101 388 5
+[13:33:29] [Server thread/INFO]: @: Game rule keepInventory has been set to: true[m
+[13:33:29] [Server thread/INFO]: @: Game rule mobGriefing has been set to: false[m
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,018,88,-643 issued server command: /give FartyChicken101 339 64
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,018,88,-642 issued server command: /weather clear
+[13:33:29] [Server thread/INFO]: @: Game rule commandBlockOutput has been set to: false[m
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,018,88,-641 issued server command: /give FartyChicken101 276
+[13:33:29] [Server thread/INFO]: @: Game rule doFireTick has been set to: false[m
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,016,88,-640 issued server command: /time set 0
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,016,88,-637 issued server command: /gamemode 2 FartyChicken101
+[13:33:29] [Server thread/INFO]: @: Set [0;33;1m[0;31;22m~hero[m's spawnpoint to 1070, 61, 40[m
+[13:33:29] [Server thread/INFO]: CommandBlock at -1,016,88,-634 issued server command: /tp FartyChicken101 1030.5 57 4.5
+[13:33:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4789ms behind, skipping 95 tick(s)
+[13:33:49] [Server thread/INFO]: camjohn153 lost connection: Disconnected
+[13:33:49] [Server thread/INFO]: camjohn153 left the game.
+[13:34:19] [Server thread/INFO]: FartyChicken101 lost connection: Disconnected
+[13:34:19] [Server thread/INFO]: FartyChicken101 left the game.
+[13:34:36] [pool-3-thread-11/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[13:38:32] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[13:39:36] [pool-3-thread-12/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[13:44:36] [pool-3-thread-14/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[13:49:36] [pool-3-thread-16/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[13:54:36] [pool-3-thread-15/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[13:59:36] [pool-3-thread-15/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:04:36] [pool-3-thread-22/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:09:36] [pool-3-thread-22/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:14:36] [pool-3-thread-24/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:19:36] [pool-3-thread-26/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:24:36] [pool-3-thread-25/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:29:36] [pool-3-thread-25/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:34:36] [pool-3-thread-31/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:39:36] [pool-3-thread-31/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:44:36] [pool-3-thread-34/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:49:36] [pool-3-thread-36/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:54:36] [pool-3-thread-38/INFO]: [EconomyManager] §aSaving Economy Manager's Information.
+[14:58:49] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[14:58:49] [Server thread/INFO]: Stopping server
+[14:58:49] [Server thread/INFO]: [ClickWarp] Disabling ClickWarp v1.3.5
+[14:58:50] [Server thread/INFO]: [ClickWarp] Plugin v1.3.5 by comniemeer disabled.
+[14:58:52] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[14:58:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[14:58:53] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.28 (Phoenix)
+[14:58:53] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[14:58:53] [Server thread/INFO]: [Vault][Permission] GroupManager un-hooked.
+[14:58:53] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat un-hooked.
+[14:58:53] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[14:58:53] [Server thread/INFO]: GroupManager version 2.1.28 (Phoenix) is disabled!
+[14:58:53] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[14:58:53] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[14:58:53] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[14:58:53] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[14:58:53] [Server thread/INFO]: [Vault] Disabling Vault v1.4.1-b436
+[14:58:53] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[14:58:53] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[14:58:53] [Server thread/INFO]: [EconomyManager] Disabling EconomyManager v1.0.3
+[14:58:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[14:58:55] [Server thread/INFO]: Saving players
+[14:58:56] [Server thread/INFO]: Saving worlds
+[14:58:56] [Server thread/INFO]: Saving chunks for level 'map'/Overworld
+[14:58:56] [Server thread/INFO]: Saving chunks for level 'map_nether'/Nether
+[14:58:56] [Server thread/INFO]: Saving chunks for level 'map_the_end'/The End
+[14:58:56] [Thread-4/INFO]: Stopping server
+[14:58:56] [Thread-4/INFO]: Saving players
+[14:58:56] [Thread-4/INFO]: Saving worlds
+[14:58:56] [Thread-4/INFO]: Saving chunks for level 'map'/Overworld
+[14:58:56] [Thread-4/INFO]: Saving chunks for level 'map_nether'/Nether
+[14:58:56] [Thread-4/INFO]: Saving chunks for level 'map_the_end'/The End

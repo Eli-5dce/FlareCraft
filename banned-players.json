@@ -1,0 +1,34 @@
+[
+  {
+    "uuid": "081ad949-81f6-4be1-8df9-bc033d5811cf",
+    "name": "lalachicken",
+    "created": "2014-05-13 16:15:04 -0600",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "cc108609-bf31-43ee-89d1-14e6d9ee8587",
+    "name": "billybobjoe505",
+    "created": "2014-05-13 15:39:15 -0600",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0b1f2bb6-2498-42a5-b9b9-cb0b28ccb235",
+    "name": "DR_minecraft",
+    "created": "2014-05-17 21:58:23 -0600",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4aa4b651-7d4d-43bc-9af3-cd00d6830e79",
+    "name": "BobTheAirplane",
+    "created": "2014-05-14 18:03:23 -0600",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
